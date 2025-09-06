@@ -1,0 +1,66 @@
+[
+  {
+    "id": "d1",
+    "name": "Bob",
+    "username": "bob",
+    "password": "123",
+    "phone": "555-0123",
+    "vehicle": "Honda Civic"
+  },
+  {
+    "id": "d1757075655393_3jbs5jxjqb",
+    "name": "miguel",
+    "phone": "",
+    "vehicle": "",
+    "username": "miguel@gmail.com"
+  },
+  {
+    "id": "d1757083116631_6d4c76l1ypt",
+    "name": "chamito",
+    "phone": "",
+    "vehicle": "",
+    "username": "chamito@gmail.com"
+  },
+  {
+    "id": "d1757116690217_lgrydz5s32a",
+    "name": "holguin",
+    "phone": "",
+    "vehicle": "",
+    "username": "holguin@gmail.com"
+  },
+  {
+    "id": "d1757117186187_kd8q3e7ho6q",
+    "name": "cristina",
+    "phone": "",
+    "vehicle": "",
+    "username": "cristina@gmail.com"
+  },
+  {
+    "id": "d1757118043140_mq88l8kuvf",
+    "name": "sech",
+    "phone": "",
+    "vehicle": "",
+    "username": "sech@gmail.com"
+  },
+  {
+    "id": "d1757119687651_sdgrr242aqj",
+    "name": "morat",
+    "phone": "",
+    "vehicle": "",
+    "username": "morat@gmail.com"
+  },
+  {
+    "id": "d1757119895689_qapzeov6ik",
+    "name": "simon",
+    "phone": "",
+    "vehicle": "",
+    "username": "simon@gmail.com"
+  },
+  {
+    "id": "d1757120287992_z64lkjn7ed",
+    "name": "adnres",
+    "phone": "",
+    "vehicle": "",
+    "username": "adnres@gmail.com"
+  }
+]

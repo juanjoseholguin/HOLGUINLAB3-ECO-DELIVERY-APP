@@ -1,0 +1,87 @@
+[
+  {
+    "id": "u1",
+    "role": "consumer",
+    "name": "Alice",
+    "username": "alice",
+    "password": "123",
+    "address": "123 Main St"
+  },
+  {
+    "id": "u1757075349113_lsus57t5e4",
+    "role": "consumer",
+    "name": "Mamberroi",
+    "address": "",
+    "username": "mamberroi@gmail.com"
+  },
+  {
+    "id": "u1757076220422_7yn63734boj",
+    "role": "consumer",
+    "name": "Luisa",
+    "address": "",
+    "username": "luisa@gmail.com"
+  },
+  {
+    "id": "u1757081415373_d098ju7yl9m",
+    "role": "consumer",
+    "name": "tinoco",
+    "address": "",
+    "username": "tinoco@gmail.com"
+  },
+  {
+    "id": "u1757116157572_hhs9r9xoio",
+    "role": "consumer",
+    "name": "julian",
+    "address": "",
+    "username": "julian@gmail.com"
+  },
+  {
+    "id": "u1757116242501_op11uznx87r",
+    "role": "consumer",
+    "name": "marcela",
+    "address": "",
+    "username": "marcela@gmail.com"
+  },
+  {
+    "id": "u1757117045213_zsvgtxpyhm",
+    "role": "consumer",
+    "name": "feid",
+    "address": "",
+    "username": "feid@gmail.com"
+  },
+  {
+    "id": "u1757117807840_4wg4sl5p73r",
+    "role": "consumer",
+    "name": "diego",
+    "address": "",
+    "username": "diego@gmail.com"
+  },
+  {
+    "id": "u1757118222108_cpjrrdre35",
+    "role": "consumer",
+    "name": "Test User",
+    "address": "Test Address",
+    "username": "test@gmail.com"
+  },
+  {
+    "id": "u1757120220880_b51vm8ygpf9",
+    "role": "consumer",
+    "name": "drake",
+    "address": "",
+    "username": "drake@gmail.com"
+  },
+  {
+    "id": "u1757130116341_3n6g2pjy23u",
+    "role": "consumer",
+    "name": "camilo",
+    "address": "",
+    "username": "camilo@gmail.com"
+  },
+  {
+    "id": "u1757134592158_g1vttlfouz",
+    "role": "consumer",
+    "name": "Manuel turizo",
+    "address": "",
+    "username": "mt@gmail.com"
+  }
+]

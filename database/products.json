@@ -1,0 +1,47 @@
+[
+  {
+    "id": "p1",
+    "storeId": "s1",
+    "name": "Water 500ml",
+    "price": 2,
+    "stock": 39
+  },
+  {
+    "id": "p2",
+    "storeId": "s1",
+    "name": "Chips",
+    "price": 3.5,
+    "stock": 25
+  },
+  {
+    "id": "p3",
+    "storeId": "s2",
+    "name": "Pepperoni Pizza",
+    "price": 12,
+    "stock": 9
+  },
+  {
+    "id": "p1757120176359_ah8g9hrcqsh",
+    "storeId": "s1757082449844_5scq5i3s2hr",
+    "name": "salchipapa",
+    "price": "40",
+    "stock": 8,
+    "imageUrl": "/uploads/prod_1757120176356_yf4mv1k9iqc.jpg"
+  },
+  {
+    "id": "p1757130228957_gryv1p6wmsd",
+    "storeId": "s1757082449844_5scq5i3s2hr",
+    "name": "papas",
+    "price": "13",
+    "stock": 9,
+    "imageUrl": "/uploads/prod_1757130228949_0bvja6ljq25k.jpg"
+  },
+  {
+    "id": "p1757134449363_s55t7tg4878",
+    "storeId": "s1757082449844_5scq5i3s2hr",
+    "name": "sandwich",
+    "price": "19",
+    "stock": 9,
+    "imageUrl": "/uploads/prod_1757134449361_yuz1b5m25a8.jpg"
+  }
+]

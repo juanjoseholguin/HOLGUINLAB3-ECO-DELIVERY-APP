@@ -1,0 +1,67 @@
+## install REST Client or humao.rest-client to execute this
+
+### Obtener todos los usuarios
+GET http://localhost:5050/users
+
+###
+
+### Obtener todas las tiendas
+GET http://localhost:5050/stores
+
+###
+
+### Obtener todos los productos
+GET http://localhost:5050/products
+
+###
+
+### Obtener todos los pedidos
+GET http://localhost:5050/orders
+
+###
+
+### Login de usuario
+POST http://localhost:5050/login
+Content-Type: application/json
+
+{
+    "email": "harry@hogwarts.com",
+    "password": "123456"
+}
+
+###
+
+### Registro de nuevo usuario
+POST http://localhost:5050/register
+Content-Type: application/json
+
+{
+    "name": "Draco Malfoy",
+    "email": "draco@hogwarts.com",
+    "password": "123456",
+    "role": "consumer"
+}
+
+###
+
+### Crear nuevo pedido
+POST http://localhost:5050/orders
+Content-Type: application/json
+
+{
+    "userId": 1,
+    "storeId": 1,
+    "products": [1, 2],
+    "total": 80,
+    "deliveryAddress": "Hogwarts Castle, Gryffindor Tower"
+}
+
+###
+
+### Actualizar estado de pedido
+PUT http://localhost:5050/orders/1
+Content-Type: application/json
+
+{
+    "status": "delivered"
+}

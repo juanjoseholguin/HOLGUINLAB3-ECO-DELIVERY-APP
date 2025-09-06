@@ -1,0 +1,58 @@
+[
+  {
+    "id": "s1",
+    "name": "Bodega Central",
+    "isOpen": true,
+    "description": "Mini market",
+    "address": "456 Oak Ave"
+  },
+  {
+    "id": "s2",
+    "name": "Pizza Nova",
+    "isOpen": true,
+    "description": "Italian pizzas",
+    "address": "789 Pine St"
+  },
+  {
+    "id": "s1757082449844_5scq5i3s2hr",
+    "name": "WONKA",
+    "description": "wonka",
+    "address": "cra 45 #23-21",
+    "isOpen": true
+  },
+  {
+    "id": "s1757116414726_4gsymcuib67",
+    "name": "malumastore",
+    "description": "hola es la tienda de makuma",
+    "address": "cra 45 #23-21",
+    "isOpen": true
+  },
+  {
+    "id": "s1757119976105_10ezkv0jk0t",
+    "name": "salchipaperia el harry",
+    "description": "harry",
+    "address": "cra 45 #23-21",
+    "isOpen": true
+  },
+  {
+    "id": "s1757134286868_j3tud09tk4",
+    "name": "malumastore",
+    "description": "wonka",
+    "address": "cra 45 #23-21",
+    "isOpen": true
+  },
+  {
+    "id": "s1757134402197_430n6c1fwqa",
+    "name": "malumafood",
+    "description": "hola es la tienda de makuma",
+    "address": "cra 45 #23-21",
+    "isOpen": true
+  },
+  {
+    "id": "s1757135116526_m3yhd2lahd9",
+    "name": "malumafood2",
+    "description": "hola es la tienda de makuma",
+    "address": "",
+    "isOpen": true
+  }
+]

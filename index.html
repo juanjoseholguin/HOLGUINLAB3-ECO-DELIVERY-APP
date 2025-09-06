@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rappi Hogwarts - Delivery App</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header class="header">
+            <h1>Rappi Hogwarts</h1>
+            <p>Bienvenidos a la tienda mágica elaborada por Juan José Holguin :D</p>
+        </header>
+
+        <div class="apps-grid">
+            <div class="app-card">
+                <h3>App de Usuario</h3>
+                <p>Para hacer pedidos y ver productos</p>
+                <ul>
+                    <li>Login y registro</li>
+                    <li>Ver tiendas y productos</li>
+                    <li>Hacer pedidos</li>
+                    <li>Ver historial</li>
+                </ul>
+                <div class="credentials">
+                    
+                </div>
+                <button class="btn" onclick="openApp('consumer')">Abrir App</button>
+            </div>
+
+            <div class="app-card">
+                <h3>App de Tienda</h3>
+                <p>Para administrar tiendas</p>
+                <ul>
+                    <li>Login de tienda</li>
+                    <li>Ver productos</li>
+                    <li>Gestionar pedidos</li>
+                    <li>Ver ventas</li>
+                </ul>
+                <div class="credentials">
+                    
+                </div>
+                <button class="btn" onclick="openApp('store')">Abrir App</button>
+            </div>
+
+            <div class="app-card">
+                <h3>App de Repartidor</h3>
+                <p>Para gestionar entregas</p>
+                <ul>
+                    <li>Login de repartidor</li>
+                    <li>Ver pedidos disponibles</li>
+                    <li>Aceptar entregas</li>
+                    <li>Actualizar estado</li>
+                </ul>
+                <div class="credentials">
+                   
+                    
+                </div>
+                <button class="btn" onclick="openApp('driver')">Abrir App</button>
+            </div>
+        </div>
+    </div>
+
+    <script>
+    function openApp(type) {
+        const routes = {
+            consumer: '/app1/',
+            store: '/app2/',
+            driver: '/app3/'
+        };
+        const target = routes[type];
+        if (target) {
+            window.location.href = target;
+        }
+    }
+    </script>
+</body>
+</html>
